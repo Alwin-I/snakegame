@@ -2,9 +2,20 @@
 
 A modern implementation of the classic Nokia Snake game built with React Native and Matter.js physics engine.
 
+## Screenshots
+
+![Main Menu](screenshots/main-menu.png)
+*Main Menu Screen*
+
+![Gameplay](screenshots/gameplay.png)
+*Gameplay in Action*
+
+![Game Over](screenshots/game-over.png)
+*Game Over Screen*
+
 ## Gameplay Video
 
-https://github.com/Alwin-I/snakegame/blob/master/Nokia%20Snake.mp4
+The gameplay video is available upon request. Please contact the developers for access.
 
 ## Features
 
@@ -49,11 +60,9 @@ npm run android
 - Avoid hitting the walls or your own tail
 - The game gets progressively faster as you eat more food
 
-## Developers
+## Developer
 
 - Alwin Antony
-- Ayush Gautham
-- Yuvraj Singh Bhatal
 
 ## License
 
