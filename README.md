@@ -2,6 +2,10 @@
 
 A modern implementation of the classic Nokia Snake game built with React Native and Matter.js physics engine.
 
+## Gameplay Video
+
+https://github.com/Alwin-I/snakegame/blob/master/Nokia%20Snake.mp4
+
 ## Features
 
 - Classic snake gameplay mechanics
