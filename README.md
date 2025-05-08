@@ -4,22 +4,22 @@ A modern implementation of the classic Nokia Snake game built with React Native 
 
 ## Screenshots
 
-![Main Menu](screenshots/main-menu.png)
+![Main Menu](screenshots/mainMenu.jpg)
 *Main Menu Screen*
 
-![Gameplay 1](screenshots/gameplay1.png)
+![Gameplay 1](screenshots/gameplay1.jpg)
 *Gameplay in Action - Starting*
 
-![Gameplay 2](screenshots/gameplay2.png)
+![Gameplay 2](screenshots/gameplay2.jpg)
 *Gameplay in Action - Growing*
 
-![Gameplay 3](screenshots/gameplay3.png)
+![Gameplay 3](screenshots/gameplay3.jpg)
 *Gameplay in Action - Advanced*
 
-![Pause Menu](screenshots/pause.png)
+![Pause Menu](screenshots/PauseMenu.jpg)
 *Pause Menu*
 
-![Game Over](screenshots/game-over.png)
+![Game Over](screenshots/gameOver.jpg)
 *Game Over Screen*
 
 ## Gameplay Video
