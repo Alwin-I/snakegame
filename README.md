@@ -72,7 +72,7 @@ npm run android
 ## Developer
 
 - Alwin Antony
-
+- Youraj bhatal
 ## License
 
 MIT License 
